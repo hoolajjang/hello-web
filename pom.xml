@@ -61,9 +61,11 @@
 		</dependency>
 	</dependencies>
 	<build>
+	  <!--
 		<outputDirectory>C:\Users\kosta\hello-web\build\classes</outputDirectory>
 		<testOutputDirectory>C:\Users\kosta\hello-web\build\test-classes</testOutputDirectory>
 		<directory>C:\Users\kosta\hello-web\build</directory>
+		-->
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
