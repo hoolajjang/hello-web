@@ -100,7 +100,6 @@
 				  </execution>
 				</executions>
 			</plugin>
-			<!--
 			<plugin>
 				<artifactId>exec-maven-plugin</artifactId>
 				<groupId>org.codehaus.mojo</groupId>
@@ -118,7 +117,6 @@
 					<executable>${basedir}\scripts\test.bat</executable>
 				</configuration>
 			</plugin>
-			-->
 		</plugins>
 	</build>
 </project>
